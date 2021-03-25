@@ -1,2 +1,3 @@
 # CSCU9T4-F_XMLpractical1
-This repository holds the starter code for the first XML practical exercise in CSCU9T4 and F
+# This is the README - file for the first XML checpoint.
+  Firstly I have choosen to complete the tasks using the DOM parser. The program accepts two arguments by the command line. It checks the first acrguemnt (the xml file) against the second argument (the xsd scheme). I have not put input validation as it was not required. If the validation is incorrect it returns a meessage with error that has occured. If the validation is correct it prints the xml file in a sensible way. I have also added an additional class - DOMMenuIterator, to use as storage for the xml data and to help with the printing.  
